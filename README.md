@@ -1,6 +1,6 @@
 # PayDi - Intégration de Payme comme passerelle de paiement dans WooCommerce
 
-![Logo PayDi](https://github.com/danistrauphs/PayDi/blob/main/PayDi/PayDi%20Logo.png)
+![Logo PayDi](main/PayDi Logo.png)
 
 PayDi est un plugin WordPress conçu pour faciliter l'intégration d'un lien Payme (PGPAY ou autres) en tant que passerelle de paiement dans WooCommerce, le populaire plugin de commerce électronique pour WordPress. Cette passerelle de paiement permet à vos clients de payer leurs achats en utilisant Payme de manière transparente.
 
