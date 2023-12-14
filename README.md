@@ -6,7 +6,7 @@ PayDi est un plugin WordPress conçu pour faciliter l'intégration d'un lien Pay
 
 ## Installation
 
-1. Téléchargez le plugin PayDi depuis le [référentiel GitHub](https://github.com/danistrauphs/PayDi/releases/download/v1.0-alpha/PayDi.zip).
+1. Téléchargez le plugin PayDi depuis le [référentiel GitHub](https://github.com/danistrauphs/PayDi/releases/download/v%2C1%2C0/PayDi.zip).
 
 2. Téléversez le plugin dans votre installation WordPress via le tableau de bord ou FTP.
 
