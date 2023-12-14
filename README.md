@@ -36,7 +36,9 @@ Si vous souhaitez contribuer au développement de ce plugin, n'hésitez pas à s
 
 ## Licence
 
-Ce plugin est publié librement  à la communauté haitienne pour faciliter l'exercice du commerce en ligne.
+Ce plugin est publié sous la [Licence GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) afin de garantir la liberté d'utilisation, de partage et de modification du logiciel.
+
+Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE, y compris la garantie implicite de QUALITÉ MARCHANDE ou d'ADÉQUATION À UN USAGE PARTICULIER. Consultez la Licence pour plus de détails.
 
 ---
 
